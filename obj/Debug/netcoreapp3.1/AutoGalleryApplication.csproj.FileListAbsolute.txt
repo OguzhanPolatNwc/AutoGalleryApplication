@@ -1,0 +1,14 @@
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/AutoGalleryApplication/bin/Debug/netcoreapp3.1/AutoGalleryApplication
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/AutoGalleryApplication/bin/Debug/netcoreapp3.1/AutoGalleryApplication.deps.json
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/AutoGalleryApplication/bin/Debug/netcoreapp3.1/AutoGalleryApplication.runtimeconfig.json
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/AutoGalleryApplication/bin/Debug/netcoreapp3.1/AutoGalleryApplication.runtimeconfig.dev.json
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/AutoGalleryApplication/bin/Debug/netcoreapp3.1/AutoGalleryApplication.dll
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/AutoGalleryApplication/bin/Debug/netcoreapp3.1/AutoGalleryApplication.pdb
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/AutoGalleryApplication/obj/Debug/netcoreapp3.1/AutoGalleryApplication.csproj.AssemblyReference.cache
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/AutoGalleryApplication/obj/Debug/netcoreapp3.1/AutoGalleryApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/AutoGalleryApplication/obj/Debug/netcoreapp3.1/AutoGalleryApplication.AssemblyInfoInputs.cache
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/AutoGalleryApplication/obj/Debug/netcoreapp3.1/AutoGalleryApplication.AssemblyInfo.cs
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/AutoGalleryApplication/obj/Debug/netcoreapp3.1/AutoGalleryApplication.csproj.CoreCompileInputs.cache
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/AutoGalleryApplication/obj/Debug/netcoreapp3.1/AutoGalleryApplication.dll
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/AutoGalleryApplication/obj/Debug/netcoreapp3.1/AutoGalleryApplication.pdb
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/AutoGalleryApplication/obj/Debug/netcoreapp3.1/AutoGalleryApplication.genruntimeconfig.cache

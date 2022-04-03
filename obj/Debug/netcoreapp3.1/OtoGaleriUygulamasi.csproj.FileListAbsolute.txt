@@ -1,0 +1,14 @@
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/OtoGaleriUygulamasi/bin/Debug/netcoreapp3.1/OtoGaleriUygulamasi
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/OtoGaleriUygulamasi/bin/Debug/netcoreapp3.1/OtoGaleriUygulamasi.deps.json
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/OtoGaleriUygulamasi/bin/Debug/netcoreapp3.1/OtoGaleriUygulamasi.runtimeconfig.json
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/OtoGaleriUygulamasi/bin/Debug/netcoreapp3.1/OtoGaleriUygulamasi.runtimeconfig.dev.json
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/OtoGaleriUygulamasi/bin/Debug/netcoreapp3.1/OtoGaleriUygulamasi.dll
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/OtoGaleriUygulamasi/bin/Debug/netcoreapp3.1/OtoGaleriUygulamasi.pdb
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/OtoGaleriUygulamasi/obj/Debug/netcoreapp3.1/OtoGaleriUygulamasi.csproj.AssemblyReference.cache
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/OtoGaleriUygulamasi/obj/Debug/netcoreapp3.1/OtoGaleriUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/OtoGaleriUygulamasi/obj/Debug/netcoreapp3.1/OtoGaleriUygulamasi.AssemblyInfoInputs.cache
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/OtoGaleriUygulamasi/obj/Debug/netcoreapp3.1/OtoGaleriUygulamasi.AssemblyInfo.cs
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/OtoGaleriUygulamasi/obj/Debug/netcoreapp3.1/OtoGaleriUygulamasi.csproj.CoreCompileInputs.cache
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/OtoGaleriUygulamasi/obj/Debug/netcoreapp3.1/OtoGaleriUygulamasi.dll
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/OtoGaleriUygulamasi/obj/Debug/netcoreapp3.1/OtoGaleriUygulamasi.pdb
+/Users/oguzhanpolat/Documents/C#_Projects/OtoGaleriUygulamasi/OtoGaleriUygulamasi/obj/Debug/netcoreapp3.1/OtoGaleriUygulamasi.genruntimeconfig.cache
