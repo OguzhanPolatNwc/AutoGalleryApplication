@@ -12,9 +12,10 @@ namespace AutoGalleryApplication
 
         public void Run()
         {
-
+            
             //Let's not directly change any properties of classes from outside.
             // Let's do all the operations with methods.
+            
 
             Menu();
             while (true)
